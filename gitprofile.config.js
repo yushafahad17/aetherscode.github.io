@@ -1,40 +1,8 @@
 // gitprofile.config.js
-const htem = [
-      'light',
-      'dark',
-      'cupcake',
-      'bumblebee',
-      'emerald',
-      'corporate',
-      'synthwave',
-      'retro',
-      'cyberpunk',
-      'valentine',
-      'halloween',
-      'garden',
-      'forest',
-      'aqua',
-      'lofi',
-      'pastel',
-      'fantasy',
-      'wireframe',
-      'black',
-      'luxury',
-      'dracula',
-      'cmyk',
-      'autumn',
-      'business',
-      'acid',
-      'lemonade',
-      'night',
-      'coffee',
-      'winter',
-      'procyon',
-    ]
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'zeeone-ofc', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -43,55 +11,25 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    facebook: '',
-    instagram: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // format: userid/username
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    twitter: 'Zeeoneofc',
+    facebook: 'Zeeoneofc',
+    instagram: 'Zeeoneofc',
+    dev: 'Zeeoneofc',
+    website: 'https://api.zeeoneofc.my.id',
+    phone: '+62887435047326',
+    email: 'zeeoneofc@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Copas',
+    'Recode',
+    'Reupload',
   ],
   experiences: [
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
-  ],
+    ],
   /* certifications: [
     {
       name: 'Lorem ipsum',
@@ -102,22 +40,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'UPT SMAN 6 SINJAI',
+      degree: 'Student',
+      from: '2018',
+      to: '2021',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: 'zeeoneofficial', // to hide blog section, keep it empty
     limit: 3, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
@@ -129,7 +61,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: htem[Math.floor(Math.random() * htem.length)],
+    defaultTheme: 'night',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
