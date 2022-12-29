@@ -217,7 +217,7 @@ const GitProfile = ({ config }) => {
                 <div className="card compact bg-base-100 shadow">
                   <a
                     className="card-body"
-                    href="https://github.com/arifszn/gitprofile"
+                    href="https://youtube.com/c/@zeeoneofc"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -227,7 +227,7 @@ const GitProfile = ({ config }) => {
                       ) : (
                         <p className="font-mono text-sm">
                           Made with{' '}
-                          <span className="text-primary">GitProfile</span> and
+                          <span className="text-primary">Zeeoneofc</span> and
                           ❤️
                         </p>
                       )}
