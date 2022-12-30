@@ -12,7 +12,6 @@ const config = {
   },
   social: {
     twitter: 'Zeeoneofc',
-    facebook: 'Zeeoneofc',
     instagram: 'Zeeoneofc',
     dev: 'Zeeoneofc',
     website: 'https://api.zeeoneofc.my.id',
@@ -21,7 +20,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.zeeoneofc.my.id', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Copas',
@@ -49,7 +48,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'zeeoneofficial', // to hide blog section, keep it empty
+    username: 'zeeoneofc', // to hide blog section, keep it empty
     limit: 3, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
