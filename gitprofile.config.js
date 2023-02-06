@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'ZeeoneOfficial', // Your GitHub org/user name. (Required)
+    username: 'zeeoneofficial', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -16,7 +16,7 @@ const config = {
     dev: 'Zeeoneofc',
     website: 'https://api.zeeoneofc.my.id',
     phone: '+62887435047326',
-    email: 'zeeoneofc@gmail.com',
+    email: 'zeeoneofc@yahoo.com',
   },
   resume: {
     fileUrl:
