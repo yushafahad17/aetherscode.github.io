@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'zeeoneofficial', // Your GitHub org/user name. (Required)
+    username: 'zeeoneofficial2', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
