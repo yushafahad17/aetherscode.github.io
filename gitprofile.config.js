@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'zeeoneofficial', // Your GitHub org/user name. (Required)
+    username: 'yushafahad17', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 15, // How many projects to display.
     exclude: {
@@ -11,16 +11,16 @@ const config = {
     },
   },
   social: {
-    twitter: 'Zeeoneofc',
-    instagram: 'Zeeoneofc',
-    dev: 'Zeeoneofc',
-    website: 'https://api.zeeoneofc.my.id',
-    phone: '+62887435047326',
-    email: 'zeeoneofc@yahoo.com',
+    twitter: '-',
+    instagram: 'aethersss17',
+    dev: 'AethersCode',
+    website: 'https://bioku.my.id/aetherscode',
+    phone: '+6285798045817',
+    email: 'aetherscode@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://github.zeeoneofc.my.id', // Empty fileUrl will hide the `Download Resume` button.
+      'https://bioku.my.id/aetherscode', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Copas',
@@ -39,16 +39,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'UPT SMAN 6 SINJAI',
+      institution: 'MA PUI TENAJAR LOR',
       degree: 'Student',
-      from: '2018',
-      to: '2021',
+      from: '2020',
+      to: '2023',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'zeeoneofc', // to hide blog section, keep it empty
+    username: 'yushafahad17', // to hide blog section, keep it empty
     limit: 3, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
